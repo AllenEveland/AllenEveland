@@ -47,6 +47,7 @@
   <img src="icons/Windows.svg" width="45"/>
   <img src="icons/Git.svg" width="45"/>
   <img src="icons/Github.svg" width="45"/>
+  <img src="icons/VSCode.svg" width="45"/>
   <img src="icons/NeoVim.svg" width="45"/>
   <img src="icons/Vim.svg" width="45"/>
 </p>
