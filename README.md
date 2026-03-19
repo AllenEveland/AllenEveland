@@ -38,6 +38,9 @@
   <img src="icons/Python.svg" width="45"/>
   <img src="icons/C.svg" width="45"/>
   <img src="icons/CPP.svg" width="45"/>
+  <img src="icons/Rust.svg" width="45"/>
+  <img src="icons/Go.svg" width="45"/>
+  <img src="icons/Lua.svg" width="45"/>
 </p>
 
 ## 🧰 Tools I Use
