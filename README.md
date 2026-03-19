@@ -20,14 +20,14 @@
 > *"Actions are always better than words"*  
 > – Allen Eveland
 
-🌱 Currently focused on **System Programming, Cybersecurity, Automation System, ...**  
+🌱 Currently focused on **System Programming, Cybersecurity, Automation, ...**  
 🧠 Learning: **Development tools, programming fundamentals, operating system concepts**  
 🔍 Areas of interest: **Linux, Windows, Android, system internals, automation tools and software, ...**  
 📚 Favorite subjects: **Mathematics, English, Physics**
 
 | Name           | Roles               | Focus                             | Environment              |
 |----------------|---------------------|-----------------------------------|--------------------------|
-| Allen Eveland  | Student, Programmer | System Programming, Cybersecurity, Automation Systems, ... | Linux, Windows, Android |
+| Allen Eveland  | Student, Programmer | System Programming, Cybersecurity, Automation, ... | Linux, Windows, Android |
 
 ## 🚀 Projects
 📦 Projects are being prepared. Available soon.
