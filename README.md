@@ -20,9 +20,9 @@
 > *"Actions are always better than words"*  
 > – Allen Eveland
 
-🌱 Currently focused on **System Programming, Toolchains Development, Space & Astronomy Systems Engineering ...**  
+🌱 Currently focused on **System Programming, Toolchains Development, Space & Astronomy Systems Engineering**  
 🧠 Learning: **Toolchains development, Fundamental programming knowledges, Space science**  
-🔍 Areas of interest: **Linux, Windows, Android, internal system architecture, all types of tools and software...**  
+🔍 Areas of interest: **Linux, Windows, Android, internal system architecture, all types of tools and software**  
 📚 Favorite subjects: **Mathematics, English, Physics**
 
 | Name           | Roles               | Focus                             | Environment              |
