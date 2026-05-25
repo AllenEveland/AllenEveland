@@ -38,21 +38,21 @@
   <img src="icons/Python.svg" width="45"/>
   <img src="icons/C.svg" width="45"/>
   <img src="icons/CPP.svg" width="45"/>
-  <img src="icons/Rust.svg" width="45"/>
   <img src="icons/Lua.svg" width="45"/>
-</p>
-
-## 🧰 Tools I Use
-
-<p>
+  <img src="icons/Bash.svg" width="45"/>
+  <img src="icons/HTML.svg" width="45"/>
+  <img src="icons/CSS.svg" width="45"/>
+  <img src="icons/JavaScript.svg" width="45"/>
   <img src="icons/Linux.svg" width="45"/>
-  <img src="icons/Windows.svg" width="45"/>
   <img src="icons/Git.svg" width="45"/>
   <img src="icons/Github.svg" width="45"/>
   <img src="icons/VSCode.svg" width="45"/>
   <img src="icons/NeoVim.svg" width="45"/>
-  <img src="icons/Vim.svg" width="45"/>
 </p>
+
+## 🌐 Connect me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenEveland)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllenEveland\&theme=github-dark\&area=true\&hide_border=true)](https://github.com/AllenEveland)
 
