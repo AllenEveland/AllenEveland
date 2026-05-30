@@ -13,13 +13,12 @@
 
 | | |
 |---|---|
-| 🔭 Focused on | System programming · Toolchains · Space engineering |
-| 🧠 Learning | Toolchains dev · Fundamentals · Space science |
-| 🔍 Interests | Linux · Windows · Android · System architecture |
+| 💼 Role | Space Scientist & Toolchains Developer |
+| 🔭 Focused on | Toolchains · Space engineering |
+| 🧠 Learning | Toolchain development · Systems fundamentals · Space science |
+| 🔍 Interests | Linux · Android · System · Astronomy |
 | 📚 Favorites | Mathematics · English · Physics |
-| 🌍 Environment | Linux · Windows · Android |
-
-> *"Actions are always better than words."* — Allen Eveland
+| 🌍 Environment | Linux · Android |
 
 ---
 
