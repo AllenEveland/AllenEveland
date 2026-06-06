@@ -24,7 +24,7 @@
 
 ### 🗣️ Languages
 
-🇬🇧 English &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇨🇳 Chinese &nbsp;·&nbsp; 🇯🇵 Japanese &nbsp;·&nbsp; 🇪🇸 Spanish
+🇬🇧 English &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇨🇳 Chinese &nbsp;·&nbsp; 🇪🇸 Spanish
 
 ---
 
