@@ -37,7 +37,7 @@
 ![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go)
 ![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash)
 ![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
 ![Lua](https://img.shields.io/badge/Lua-000?style=flat-square&logo=lua)
