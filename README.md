@@ -13,11 +13,10 @@
 
 | | |
 |---|---|
-| 💼 Role | Space Scientist & Toolchains Developer |
-| 🔭 Focused on | Toolchains · Space engineering |
-| 🧠 Learning | Toolchain development · Systems fundamentals · Space science |
-| 🔍 Interests | Linux · Android · System · Astronomy |
-| 📚 Favorites | Mathematics · English · Physics |
+| 💼 Primary Career | Space Scientist |
+| 🛠️ Secondary Career | Toolchains & Software Developer |
+| 🔭 Focused on | Space engineering · Tooling · Software Dev |
+| 📚 Favorites | Mathematics · Physics · Astronomy |
 | 🌍 Environment | Linux · Android |
 
 ---
@@ -35,19 +34,23 @@
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
-![Lua](https://img.shields.io/badge/Lua-000?style=flat-square&logo=lua)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go)
 ![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash)
 ![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![Lua](https://img.shields.io/badge/Lua-000?style=flat-square&logo=lua)
 
 **Tools & Environment**
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode)
-![NeoVim](https://img.shields.io/badge/NeoVim-000?style=flat-square&logo=neovim)
+![VSCode](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-000?style=flat-square&logo=sublime-text)
+![Alacritty](https://img.shields.io/badge/Alacritty-000?style=flat-square&logo=alacritty)
+![Tmux](https://img.shields.io/badge/Tmux-000?style=flat-square&logo=tmux)
 
 ---
 
