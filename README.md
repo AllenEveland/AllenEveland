@@ -65,7 +65,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=AllenEveland&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AllenEveland&theme=github_dark" height="160"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AllenEveland&theme=github_dark&hide_border=true" height="160"/>
 
 </div>
 
