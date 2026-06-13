@@ -14,8 +14,8 @@
 | | |
 |---|---|
 | 💼 Primary Career | Space Scientist |
-| 🛠️ Secondary Career | Toolchains & Software Developer |
-| 🔭 Focused on | Space engineering · Tooling · Software Dev |
+| 🛠️ Secondary Career | Tool · Software · Library Developer |
+| 🔭 Focused on | Space engineering · Tooling · Software · Library |
 | 📚 Favorites | Mathematics · Physics · Astronomy |
 | 🌍 Environment | Linux · Android |
 
@@ -65,7 +65,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=AllenEveland&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AllenEveland&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AllenEveland&theme=github_dark" height="160"/>
 
 </div>
 
