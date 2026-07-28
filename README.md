@@ -31,7 +31,7 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust)
 ![Javascript](https://img.shields.io/badge/Javascript-000?style=flat-square&logo=javascript)
 ![Shellscript](https://img.shields.io/badge/Shellscript-000?style=flat-square&logo=gnubash)
