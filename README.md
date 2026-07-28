@@ -13,9 +13,9 @@
 
 | | |
 |---|---|
-| 💼 Primary Career | Low-level Developer |
+| 💼 Primary Career | Reverse Engineer · Exploit Developer |
 | 🛠️ Secondary Career | Independent Researcher · Maker |
-| 🔭 Focused on | Systems programming · Scientific research · Making/tinkering |
+| 🔭 Focused on | Reverse engineering · Exploit development · Scientific research · Making/tinkering |
 
 ---
 
@@ -31,13 +31,13 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=c++)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust)
 ![Javascript](https://img.shields.io/badge/Javascript-000?style=flat-square&logo=javascript)
 ![Shellscript](https://img.shields.io/badge/Shellscript-000?style=flat-square&logo=gnubash)
 
 **Tools & Environment**
 
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
 ![Fedora](https://img.shields.io/badge/Fedora-000?style=flat-square&logo=fedora)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)
