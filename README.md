@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=32&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Allen+Eveland;Independent+Developer+💻;Space+%26+Astronomy+Enthusiast+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=32&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Allen+Eveland;No-Hat+Hacker+💻;Independent+Scientist+🔬)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AllenEveland-000?style=flat-square&logo=github&logoColor=white)](https://github.com/AllenEveland)
 [![Followers](https://img.shields.io/github/followers/AllenEveland?style=flat-square&logo=github&label=Followers)](https://github.com/AllenEveland?tab=followers)
@@ -14,7 +14,7 @@
 | | |
 |---|---|
 | 💼 Primary Career | Reverse Engineer · Exploit Developer · Web Hacking |
-| 🛠️ Secondary Career | Independent Researcher · Maker |
+| 🛠️ Secondary Career | Independent Scientist · Creator |
 
 ---
 
