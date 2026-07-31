@@ -13,9 +13,8 @@
 
 | | |
 |---|---|
-| 💼 Primary Career | Reverse Engineer · Exploit Developer |
+| 💼 Primary Career | Reverse Engineer · Exploit Developer · Web Hacking |
 | 🛠️ Secondary Career | Independent Researcher · Maker |
-| 🔭 Focused on | Reverse engineering · Exploit development · Scientific research · Making/tinkering |
 
 ---
 
