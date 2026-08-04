@@ -11,16 +11,16 @@
 
 ### 👤 About
 
-| | |
+|||
 |---|---|
-| 💼 Primary Career | Reverse Engineer · Exploit Developer · Web Hacking |
+| 💼 Primary Career |  Reverse Engineer · Network  ·  Web Hacking |
 | 🛠️ Secondary Career | Independent Scientist · Creator |
 
 ---
 
 ### 🗣️ Languages
 
-🇬🇧 English &nbsp;·&nbsp; 🇨🇳 Chinese &nbsp;·&nbsp; 🇫🇷 French
+🇬🇧 English &nbsp;·&nbsp; 🇨🇳 Chinese &nbsp;·&nbsp; 🇪🇸 Spanish
 
 ---
 
@@ -28,20 +28,15 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust)
-![Javascript](https://img.shields.io/badge/Javascript-000?style=flat-square&logo=javascript)
-![Shellscript](https://img.shields.io/badge/Shellscript-000?style=flat-square&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-000?&logo=python)
+![C](https://img.shields.io/badge/C-000?&logo=c)
+![Javascript](https://img.shields.io/badge/Javascript-000?&logo=javascript)
+![Shellscript](https://img.shields.io/badge/Shellscript-000?&logo=gnubash)
 
 **Tools & Environment**
 
-![Fedora](https://img.shields.io/badge/Fedora-000?style=flat-square&logo=fedora)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)
-![Neovim](https://img.shields.io/badge/Neovim-000?style=flat-square&logo=neovim)
-![Vim](https://img.shields.io/badge/Vim-000?style=flat-square&logo=vim)
+![Linux](https://img.shields.io/badge/Linux-000?&logo=linux)
+![Neovim](https://img.shields.io/badge/Neovim-000?&logo=neovim)
 
 ---
 
@@ -69,3 +64,4 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AllenEveland&theme=github-dark&area=true&hide_border=true)](https://github.com/AllenEveland)
 
 </div>
+
