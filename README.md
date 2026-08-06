@@ -13,7 +13,7 @@
 
 |||
 |---|---|
-| 💼 Primary Career |  Reverse Engineer · Network  ·  Web Hacking |
+| 💼 Primary Career |  Reverse Engineer · Network Hacking |
 | 🛠️ Secondary Career | Independent Scientist · Creator |
 
 ---
@@ -30,6 +30,7 @@
 
 ![Python](https://img.shields.io/badge/Python-000?&logo=python)
 ![C](https://img.shields.io/badge/C-000?&logo=c)
+![Rust](https://img.shields.io/badge/Rust-000?&logo=rust)
 ![Javascript](https://img.shields.io/badge/Javascript-000?&logo=javascript)
 ![Shellscript](https://img.shields.io/badge/Shellscript-000?&logo=gnubash)
 
