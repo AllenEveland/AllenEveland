@@ -20,7 +20,7 @@
 
 ### 🗣️ Languages
 
-🇬🇧 English &nbsp;·&nbsp; 🇨🇳 Chinese &nbsp;·&nbsp; 🇪🇸 Spanish
+🇬🇧 English &nbsp;·&nbsp; 🇪🇸 Spanish
 
 ---
 
@@ -30,13 +30,15 @@
 
 ![Python](https://img.shields.io/badge/Python-000?&logo=python)
 ![C](https://img.shields.io/badge/C-000?&logo=c)
-![Rust](https://img.shields.io/badge/Rust-000?&logo=rust)
-![Javascript](https://img.shields.io/badge/Javascript-000?&logo=javascript)
+![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus)
+![Go](https://img.shields.io/badge/Go-000?&logo=go)
+![Assembly](https://img.shields.io/badge/Assembly-000?&logo=assemblyscript)
 ![Shellscript](https://img.shields.io/badge/Shellscript-000?&logo=gnubash)
 
 **Tools & Environment**
 
 ![Linux](https://img.shields.io/badge/Linux-000?&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-000?&logo=windows)
 ![Neovim](https://img.shields.io/badge/Neovim-000?&logo=neovim)
 
 ---
@@ -62,7 +64,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AllenEveland&theme=github-dark&area=true&hide_border=true)](https://github.com/AllenEveland)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AllenEveland&theme=github-dark&area=true&hide_border=true)](https://github.com/AllenEveland)https://github.com/AllenEveland
 
 </div>
 
