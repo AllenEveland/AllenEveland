@@ -30,8 +30,9 @@
 
 ![Python](https://img.shields.io/badge/Python-000?&logo=python)
 ![C](https://img.shields.io/badge/C-000?&logo=c)
-![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus)
+![Nim](https://img.shields.io/badge/Nim-000?&logo=nim)
 ![Go](https://img.shields.io/badge/Go-000?&logo=go)
+![Lua](https://img.shields.io/badge/Lua-000?&logo=lua)
 ![Assembly](https://img.shields.io/badge/Assembly-000?&logo=assemblyscript)
 ![Shellscript](https://img.shields.io/badge/Shellscript-000?&logo=gnubash)
 
