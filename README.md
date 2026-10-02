@@ -20,7 +20,7 @@
 
 ### 🗣️ Languages
 
-🇬🇧 English &nbsp;·&nbsp; 🇪🇸 Spanish
+🇬🇧 English &nbsp;·&nbsp; 🇨🇳 Chinese &nbsp;·&nbsp; 🇪🇸 Spanish
 
 ---
 
@@ -30,7 +30,7 @@
 
 ![Python](https://img.shields.io/badge/Python-000?&logo=python)
 ![C](https://img.shields.io/badge/C-000?&logo=c)
-![Nim](https://img.shields.io/badge/Nim-000?&logo=nim)
+![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus)
 ![Go](https://img.shields.io/badge/Go-000?&logo=go)
 ![Lua](https://img.shields.io/badge/Lua-000?&logo=lua)
 ![Assembly](https://img.shields.io/badge/Assembly-000?&logo=assemblyscript)
